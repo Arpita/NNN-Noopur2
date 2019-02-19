@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Napnn</string>
+    <string name="title_main">All Categories</string>
+    <string name="title_details">category_details</string>
+    <string name="video_count">0 videos</string>
+</resources>
